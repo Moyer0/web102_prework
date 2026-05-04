@@ -30,7 +30,7 @@ https://www.loom.com/share/c56b2248011142c8a5764f0b59b6bfde
 
 ## Notes
 
-One challenge I faced was correctly connecting the project to GitHub and ensuring all files were uploaded properly.
+One challenge I faced was using filter and reduce to correctly display funded and unfunded games.
 
 ## License
 
